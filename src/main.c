@@ -9,7 +9,7 @@
  * \
  *Author: Joe Ngigi
  *Date: 03/04/2019
- The application lights up an led for 360ms, powers it off for 360 microseconds and repeats
+ The application lights up an led for 360ms, powers it off for 200 microseconds and repeats
  * \
  *
  * 
